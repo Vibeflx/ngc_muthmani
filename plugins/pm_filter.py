@@ -352,7 +352,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton('NEW RELEASES', url='https://t.me/vibeflix_nums')
             ],
             [
-                InlineKeyboardButton('SERIES ZONE url=f'https://t.me/vibeflixseries')
+                InlineKeyboardButton('SERIES ZONE', url='https://t.me/vibeflixseries')
             ]
             ]
             
