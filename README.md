@@ -1,4 +1,4 @@
-@newgen_cinemazzz
+@vibeflix_request
 
 ## Features
 
@@ -49,8 +49,8 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Ashik231/ngc_muthmani">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<a href="https://heroku.com/deploy?template=https://github.com/Vibeflx/ngc_muthmani">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Dep Ashik231 loy">
 </a>
 </p>
 </details>
@@ -75,7 +75,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Ashik231/ngc_muthmani
+git clone  https://github.com/Vibeflx/ngc_muthmani
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
